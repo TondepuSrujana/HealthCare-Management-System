@@ -3,6 +3,8 @@ Effective healthcare management using SQL.
 
 This project showcases the use of SQL to enhance patient care quality and operational efficiency in healthcare management. By leveraging data-driven insights, these queries aim to optimize resource allocation, track patient outcomes, and improve decision-making processes. 
 
+
+Using MySQL Workbench, we were able to efficiently manage the database, run complex queries, and visualize results to derive meaningful insights for healthcare management.
 Below is a list of SQL queries implemented in this project, designed to address various aspects of healthcare management:
 
 1. Find all appointments scheduled on a specific date (e.g., '2023-07-16').
